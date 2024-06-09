@@ -1,0 +1,4 @@
+#Fri Nov 04 12:13:32 IST 2022
+base.0=D\:\\files\\unityProjects\\Physical movement Prototype\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
